@@ -2,7 +2,7 @@
 
 ## Clonando o projeto
 
-`| git clone git@github.com:brunoreis-dev/moveit-nlw4.git |`
+`| git clone git@github.com:brunoreis-dev/bcmoney.git |`
 
 ## Instalação
 
